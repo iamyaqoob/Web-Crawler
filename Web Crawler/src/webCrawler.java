@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Created by Mohammad Yaqoob -> BE/10025/2013.
+ * Created by Mohammad Yaqoob.
  *
  * WEB CRAWLER.
  */
