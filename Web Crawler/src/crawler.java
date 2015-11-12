@@ -10,7 +10,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * Created by Mohammad Yaqoob :: BE/10025/2013.
+ * Created by Mohammad Yaqoob.
  *
  * WEB CRAWLER.
  */
